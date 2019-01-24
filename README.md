@@ -1,1 +1,1 @@
-# informatics-buu
+# line-bot-informatics
